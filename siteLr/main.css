@@ -1,0 +1,145 @@
+body{
+    margin-top: 75px;
+    margin-bottom: 75px;
+}
+.nav-link{
+    text-decoration: none;
+    color: #131A3D;
+    font-size: 16px;
+    margin-left: 54px;
+}
+.group{
+    margin-top: 173px;
+    max-width: 635px;
+}
+.main-page{
+    display: flex;
+}
+.main-description{
+    font-size: 60px;
+    color: #131A3D;
+}
+.line-under-text{
+    color: #6F8DD9;
+    width: 100px;
+    margin-top: -15px;
+    opacity: 100%;
+}
+.minor-description{
+    margin-top: 30px;
+    font-size: 20px;
+    color: #131A3D;
+}.btn{
+    color: #FFFF;
+    background: #6F8DD9;
+    width: 241px;
+    height: 60px;
+    margin-top: 53px;
+}
+.phone{
+    margin-left: 61px;
+    margin-top: 132px;
+}
+.card{
+    padding-top: 45px;
+    padding-left: 35px;
+    margin-right: 30px;
+    width: 350px;
+    color: #000;
+    font-size: 16px;
+    border-radius: 2%;
+}
+.card2{
+    padding-top: 45px;
+    padding-left: 35px;
+    margin-right: 30px;
+    width: 350px;
+    background-color: #6F8DD9;
+    color: #FFFF;
+    font-size: 16px;
+    border-radius: 2%;
+}
+.img-card{
+    width: 50px;
+    height: 50px;
+}
+.black-description{
+    margin-top: 50px;
+    font-size: 24px;
+    color: #131A3D;
+}
+.black-description2{
+    margin-top: 50px;
+    font-size: 24px;
+}
+.line-under-card{
+    color: #6F8DD9;
+    margin-top: -10px;
+    width: 50px;
+    opacity: 100%;
+}
+.line-under-card2{
+    color: #FFFF;
+    margin-top: -10px;
+    width: 50px;
+    opacity: 100%;
+}
+.description{
+    margin-top: 20px;
+    padding-bottom: 78px;
+}
+.section3{
+    margin-top: 150px;
+}
+.img-in-third-section{
+    width: 635px;
+    height: 376px;
+    
+}
+.group2{
+    width: 446px;
+    height: 245px;
+    margin-left: 29px;
+}
+.title-group2{
+    font-size: 35px;
+}
+form {
+    text-align: right;
+    margin: 0 auto;
+    max-width: 500px;
+}
+textarea {
+    width: 100%;
+    height: 100px;
+}
+footer {
+    display: flex; 
+    justify-content: space-between; 
+    align-items: center;
+     padding: 50px;
+}
+
+button{
+    background-color: #0074D9; color: #ffff; 
+    border: 100px;
+    padding: 100px; 
+    border-radius:px;
+    cursor: pointer;
+}
+
+.btn-free {
+    color: #FFF;
+    background: #6F8DD9;
+    width: 241px;
+    height: 60px;
+    margin-top: 53px;
+}
+
+.btn-free:hover {
+    color: #FFF;
+    background: #0b5ed7;
+    width: 241px;
+    height: 60px;
+    margin-top: 53px;
+}
